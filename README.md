@@ -1,4 +1,4 @@
-### I'm Chetan Parmar 👋
+### Hi I'm Chetan Parmar 👋
 
 - 🔭 I’m currently working on Astra Track.
 - 🌱 I’m currently learning ReactJS.
